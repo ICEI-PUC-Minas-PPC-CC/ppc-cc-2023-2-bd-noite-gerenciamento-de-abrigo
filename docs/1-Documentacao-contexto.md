@@ -7,10 +7,10 @@ Gabriel Coetti
 
 
 #### 1.1 Entidades Encontradas
-Na primeira análise, quais foram as entidades encontradas?
+Animal, Adotantes, Estoque.
 
 #### 1.2 Contexto das Entidades
-Na primeira análise, objetivos das entidades.
+Animais: Epecificar 
 
 #### 1.3  Levantamento Inicial Entidades x Atributos
-Na primeira análise, quais foram os atributos iniciais encontrados?
+
