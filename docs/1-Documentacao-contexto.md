@@ -1,6 +1,9 @@
 # 1. Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto e o problema.
+Gerenciamento de abrigo de animais (adoções, animais, estoque) 
+
+CLIENTE:
+Gabriel Coetti
 
 
 #### 1.1 Entidades Encontradas
