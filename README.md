@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# GERENCIAMENTO DE ABRIGO
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,10 +6,7 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Tamoni Silva
 
 # Documentação
 
