@@ -9,6 +9,7 @@
 - Tamoni Silva
 - Mateus Boletta
 - Wanderlei Júnior
+- Jonas Couto
 
 # Documentação
 
