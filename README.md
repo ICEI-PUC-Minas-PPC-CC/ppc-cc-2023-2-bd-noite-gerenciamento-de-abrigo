@@ -7,6 +7,8 @@
 ## Integrantes
 
 - Tamoni Silva
+- Mateus Boletta
+- Wanderlei Júnior
 
 # Documentação
 
