@@ -22,6 +22,12 @@ Doadores: Seu contexto se resume a aqueles que ajudam o abrigo de maneiras exter
 Produtos: Recebe da entidade Doadores, o produto doado.
 
 #### 1.3  Levantamento Inicial Entidades x Atributos
+| Entidade              | Atributos |  
+| :----------------: | :------: | 
+| Animais       |   • Nome <br> •Raça <br> •Cor <br> •Data do resgate <br>•   | 
+|Estoque          |  •Nome do produto <br>    | 
+| Doadores     | •    | 
+|  Produtos |  •Nome do produto   | 
 
 Animais: Entidade reponsvél pelos atributos dos animais para adoção. ou seja, abrangindo especie (responsavél pela diferença entre cães e gatos) sáude, idade, porte, castração e sexo.
 
