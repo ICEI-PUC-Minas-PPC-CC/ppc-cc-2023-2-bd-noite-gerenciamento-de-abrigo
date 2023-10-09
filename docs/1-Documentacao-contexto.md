@@ -30,7 +30,5 @@ Produtos: Recebe da entidade Doadores, o produto doado.
 | Doadores | •Nome <br>•ID <br>•Doação |
 |  Produtos |  •Nome do produto <br>•Quantidade de produtos <br>•Validade do produto  | 
 
-Animais: Entidade reponsvél pelos atributos dos animais para adoção. ou seja, abrangindo especie (responsavél pela diferença entre cães e gatos) sáude, idade, porte, castração e sexo.
 
-Adotantes: 
 
